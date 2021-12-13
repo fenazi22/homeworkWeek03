@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homeworkWeek03</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="login">Login</string>
+    <string name="login_stutes">Login Stutes</string>
+    <string name="i_accept_terms_and_conditions">I accept terms and conditions</string>
+</resources>
